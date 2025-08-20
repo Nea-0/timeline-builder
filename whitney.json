@@ -1,44 +1,42 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://s40424.pcdn.co/in/wp-content/uploads/2023/03/types-of-machine-learning.jpg.optimal.jpg",
+			"caption": "Evolution of Machine Learning",
+			"credit": "LightsOnData"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Machine Learning: Decades of Innovation",
+			"text": "<p>Machine learning, a branch of AI, uses algorithms to analyze data, learn from it, and apply that knowledge to make informed decisions. It powers a wide range of applications, from detecting malware in cybersecurity to providing trading insights in finance. These algorithms continuously adapt and improve, functioning much like a virtual personal assistant.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://cryptoconexion.com/wp-content/uploads/2023/08/WarrenMcCulloch-WalterPitts.png",
+				"caption": "Early neural network model by McCulloch & Pitts",
+				"credit": "Stanford CS History of Neural Networks</a>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"year": "1943"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "1943: Birth of the Neural Network Model",
+				"text": "<p>In 1943, neurophysiologist Warren McCulloch and mathematician Walter Pitts published a groundbreaking paper that modeled how neurons might function using simple electrical circuits. This work introduced the earliest neural network model and laid the foundation for modern artificial intelligence.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"url": "https://www.youtube.com/watch?v=ME_d7dTpoPA&pp=ygUjQXJ0aHVyIFNhbXVlbCBtYWNoaW5lIGxlYXJuaW5nIDE5NTk%3D",
+				"caption": "Arthur L. Samuel, widely acknowledged as a pioneer of machine learning",
+				"credit": "<a href=\"https://www.youtube.com/watch?v=ME_d7dTpoPA&pp=ygUjQXJ0aHVyIFNhbXVlbCBtYWNoaW5lIGxlYXJuaW5nIDE5NTk%3D\">Data Dynamic Channel</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1959"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "1959: Arthur Samuel’s Checkers Program and the Birth of ‘Machine Learning’",
+				"text": "In 1959, computer scientist Arthur L. Samuel popularized the term “machine learning” with his self-learning checkers program—one of the earliest demonstrations of computers improving performance through experience."
 			}
 		},
 		{
