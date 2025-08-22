@@ -2,267 +2,137 @@
 	"title": {
 		"media": {
 			"url": "https://s40424.pcdn.co/in/wp-content/uploads/2023/03/types-of-machine-learning.jpg.optimal.jpg",
-			"caption": "Evolution of Machine Learning",
-			"credit": "LightsOnData"
+			"caption": "A Historical Timeline of Machine Learning Breakthroughs",
+			"credit": "IBM"
 		},
 		"text": {
-			"headline": "Machine Learning: Decades of Innovation",
-			"text": "<p>Machine learning, a branch of AI, uses algorithms to analyze data, learn from it, and apply that knowledge to make informed decisions. It powers a wide range of applications, from detecting malware in cybersecurity to providing trading insights in finance. These algorithms continuously adapt and improve, functioning much like a virtual personal assistant.</p>"
+			"headline": "Machine Learning Unfolded: A Timeline of Pioneering Achievements",
+			"text": "<p>Machine learning (ML) is a branch of artificial intelligence that empowers computers to mimic human learning, enabling them to perform tasks autonomously and enhance accuracy by learning from more data. At its core, a machine learning system involves a decision-making component, an error function for evaluating predictions, and an iterative optimization process that adjusts the model to improve performance.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://cryptoconexion.com/wp-content/uploads/2023/08/WarrenMcCulloch-WalterPitts.png",
-				"caption": "Early neural network model by McCulloch & Pitts",
-				"credit": "Stanford CS History of Neural Networks</a>"
+				"url": "https://historyofinformation.com/images/Screen_Shot_2020-09-09_at_6.46.46_AM_big.png",
+				"caption": "Computational groundwork for neural networks",
+				"credit": "History of Information</a>"
 			},
 			"start_date": {
 				"year": "1943"
 			},
 			"text": {
-				"headline": "1943: Birth of the Neural Network Model",
-				"text": "<p>In 1943, neurophysiologist Warren McCulloch and mathematician Walter Pitts published a groundbreaking paper that modeled how neurons might function using simple electrical circuits. This work introduced the earliest neural network model and laid the foundation for modern artificial intelligence.</p>"
+				"headline": "The First Mathematical Model of Neurons Emerges",
+				"text": "<p>In 1943, Warren McCulloch and Walter Pitts published “A Logical Calculus of the Ideas Imminent in Nervous Activity,” introducing the first mathematical model of a neural network. Drawing from Alan Turing's theoretical work, they showed how simple interconnected elements could represent complex computation marking a foundational moment in the evolution of artificial intelligence.</p><p>Their ideas would later influence pioneers like John von Neumann and Norbert Wiener, embedding neural networks into the broader narrative of computing and AI.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://www.youtube.com/watch?v=ME_d7dTpoPA&pp=ygUjQXJ0aHVyIFNhbXVlbCBtYWNoaW5lIGxlYXJuaW5nIDE5NTk%3D",
-				"caption": "Arthur L. Samuel, widely acknowledged as a pioneer of machine learning",
-				"credit": "<a href=\"https://www.youtube.com/watch?v=ME_d7dTpoPA&pp=ygUjQXJ0aHVyIFNhbXVlbCBtYWNoaW5lIGxlYXJuaW5nIDE5NTk%3D\">Data Dynamic Channel</a>"
+				"url": "https://www.youtube.com/watch?v=VMPJp7CDuyI&pp=ygUTd2hhdCBpcyBUdXJpbmcgVGVzdA%3D%3D",
+				"caption": "The first AI benchmark",
+				"credit": "<a href=\"https://www.youtube.com/watch?v=VMPJp7CDuyI&pp=ygUTd2hhdCBpcyBUdXJpbmcgVGVzdA%3D%3D\">Tech Index</a>"
 			},
 			"start_date": {
-				"year": "1959"
+				"year": "1950"
 			},
 			"text": {
-				"headline": "1959: Arthur Samuel’s Checkers Program and the Birth of ‘Machine Learning’",
-				"text": "In 1959, computer scientist Arthur L. Samuel popularized the term “machine learning” with his self-learning checkers program—one of the earliest demonstrations of computers improving performance through experience."
+				"headline": "The Turing Test (Imitation Game)",
+				"text": "Alan Turing, an English mathematician, cryptanalyst, and computer scientist, introduced the Turing Test in his 1950 paper “Computing Machinery and Intelligence” as a method to evaluate whether a machine could convincingly imitate human responses. In the test, a human judge interacts separately with both a human and a machine, and if the judge cannot reliably tell them apart more than half the time, the machine is considered to have passed."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "https://assets.ibm.com/is/image/ibm/5331_as_portrait?dpr=on%2C1&wid=1536&hei=2435",
+				"caption": "A Self-learning system",
+				"credit": "IBM"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1952"
 			},
 			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Samuel Checkers-Playing Program and the Birth of Machine Learning",
+				"text": "Arthur Samuel of IBM created one of the first self-learning programs in the 1950s, a checkers player for the IBM 701.  He creatively employed alpha-beta pruning and a scoring system to assess board positions without thoroughly playing every move out because he had limited memory.  Samuel's program was important because it tracked positions and their win/loss results, which helped it make better selections over time.  He gave this procedure the name machine learning, which has since become a key concept in artificial intelligence.  Samuel's checkers software defeated a human checkers master in 1962 after completing thousands of self-games, demonstrating early but significant lessons in adaptive computation."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "https://www.youtube.com/watch?v=UeKxO-Sk0wE&pp=ygUrd2hhdCBpcyBwZXJjZXB0cm9uIGJ5IGZyYW5rIHJvc2VuYmxhdHQgdGVzdA%3D%3D",
+				"caption": "The Perceptron: An early neural model that learns to classify.",
+				"credit": "<a href=\"https://www.youtube.com/watch?v=UeKxO-Sk0wE&pp=ygUrd2hhdCBpcyBwZXJjZXB0cm9uIGJ5IGZyYW5rIHJvc2VuYmxhdHQgdGVzdA%3D%3D\">New Machina</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1957"
 			},
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Rosenblatt’s Perceptron",
+				"text": "Frank Rosenblatt's perceptron is a pioneering neural model for binary classification that assigns weights to input values and sums them before deciding on an output using threshold activation. Designed as a simple, trainable neuron, it adjusts its weights based on data to improve accuracy, but it can only solve linearly separable problems, paving the way for more complicated neural networks."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
+				"url": "https://www.youtube.com/watch?v=b6uHw7QW_n4&pp=ygUaTmVhcmVzdCBOZWlnaGJvciBBbGdvcml0aG0%3D",
+				"caption": "Understanding the Nearest Neighbor algorithm in action",
+				"credit": "<a href=\"https://www.youtube.com/watch?v=b6uHw7QW_n4&pp=ygUaTmVhcmVzdCBOZWlnaGJvciBBbGdvcml0aG0%3D\">IBM Technology</a>"
 			},
 			"start_date": {
-				"year": "1983"
+				"year": "1967"
 			},
 			"text": {
-				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"headline": "K-Nearest Neighbor Algorithm",
+				"text": "The nearest neighbor algorithm classifies a data point by measuring its similarity to the closest labeled examples in the dataset. As one of the earliest pattern recognition methods, it laid the groundwork for modern supervised learning."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "https://www.youtube.com/watch?v=gW7h9B_byv4&pp=ygUfMTk4MCDigJMgUmlzZSBvZiBFeHBlcnQgU3lzdGVtcw%3D%3D",
+				"caption": "Expert Systems Make Their Mark ",
+				"credit": "MindSparkAI."
 			},
 			"start_date": {
-				"year": "1985"
+				"year": "1980"
 			},
 			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
+				"headline": "Expert systems of the 1970s–1980s: from DENDRAL to XCON",
+				"text": "Rule-based expert systems made the transition from research labs to industry in the early 1980s.  These systems, which were based on an inference engine and a knowledge repository, used if-then rules to address specific problems by capturing domain expertise.  Earlier experiments like DENDRAL and MYCIN showed the approach's potential in chemistry and medicine, while systems like XCON configured DEC's VAX computers.  Before interest decreased in the 1990s, expert systems were one of AI's first commercial successes due to their widespread use throughout the decade.'"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+				"url": "https://assets.ibm.com/is/image/ibm/1997_deep-blue_rematch_322:16x9?dpr=on%2C1&wid=1536&hei=864",
+				"caption": "Deep Blue’s processor cabinets the hardware behind its historic chess match",
+				"credit": "IBM"
 			},
 			"start_date": {
-				"year": "1986"
+				"year": "1997"
 			},
 			"text": {
-				"headline": "'The Grammys'",
-				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
+				"headline": "Deep Blue Becomes First Computer to Defeat a World Chess Champion",
+				"text": "A new era in artificial intelligence and computers began in May 1997 when IBM's Deep Blue became the first computer system to defeat Garry Kasparov, the current world chess champion, under normal tournament time limits.</p><p>The massively parallel architecture of 32 processors that Deep Blue used to do this was able to evaluate almost 200 million chess positions each second, which translates to about 11.38 billion floating-point operations per second. Compared to prior devices like IBM's STRETCH (launched in 1961), which ran at less than 500 flops, this marked a significant increase in processing power."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
+				"url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*AwgR2c5C2SGj6PNm95Cyvg.jpeg",
+				"caption": "Deep learning breakthrough",
+				"credit": "Concise Software"
 			},
 			"start_date": {
-				"year": "1987"
+				"year": "2006"
 			},
 			"text": {
-				"headline": "'Whitney'",
-				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
+				"headline": "The Emergence of Deep Learning",
+				"text": "The term 'deep learning' was coined by Geoffrey Hinton in 2006 to refer to a new class of techniques that allowed computers to identify and distinguish text or objects in texts and photographs.  Modern AI applications in computer vision, speech recognition, and natural language processing were made possible by this breakthrough, which represented a major leap in machine learning. "
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/96aAx0kxVSA",
-				"caption": "\"One Moment In Time\" - Theme song to the 1988 Seoul Olympics",
-				"credit": "Arista Records Inc."
+				"url": "https://www.hdatasystems.com/assets/uploads/banner/1639014633.jpg"
 			},
 			"start_date": {
-				"year": "1988"
+				"year": "2025"
 			},
 			"text": {
-				"headline": "\"One Moment In Time\"",
-				"text": "The artist's fame continues to skyrocket as she records the theme song for the Seoul Olympics, 'One Moment In Time.'"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "1989"
-			},
-			"text": {
-				"headline": "Bobby Brown",
-				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5Fa09teeaqs",
-				"caption": "CNN looks back at Houston's iconic performance of the national anthem at Superbowl XXV.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "1991"
-			},
-			"text": {
-				"headline": "Super Bowl",
-				"text": "Houston's national anthem performance captures the hearts and minds of Americans ralllying behind soldiers in the Persian Guf War."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/h9rCobRl-ng",
-				"caption": "\"Run To You\" from the 1992 \"Bodyguard\" soundtrack..",
-				"credit": "Arista Records"
-			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "\"The Bodyguard\"",
-				"text": "Houston starred opposite Kevin Costner in the box office hit, The Bodyguard. The soundtrack to the movie sold over 44 million copies worldwide  garnering 3 Grammy's for the artist."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5cDLZqe735k",
-				"caption": "Bobby Brown performing \"My Prerogrative,\" from his \"Don't be Cruel\" solo album. Bobby Brown first became famous with the R&B group, New Edition.",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "Married Life",
-				"text": "<p>After three years of courtship, Houston marries New Edition singer Bobby Brown. Their only child Bobbi Kristina Brown was born in 1993.</p><p>In 2003 Brown was charged with domestic violence after police responded to a domestic violence call. Houston and Brown were featured in the reality show, \"Being bobby Brown,\" and divorced in 2007.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//upload.wikimedia.org/wikipedia/commons/d/dd/ABC_-_Good_Morning_America_-_Diane_Sawyer.jpg",
-				"caption": "Diane Sawyer ",
-				"credit": "flickr/<a href='http://www.flickr.com/photos/23843757@N00/194521206/'>Amanda Benham</a>"
-			},
-			"start_date": {
-				"year": "2002"
-			},
-			"text": {
-				"headline": "Crack is Whack",
-				"text": "<p>Houston first publicly admitted to drug use in an interview with Diane Sawyer. The singer coined the term \"Crack is Whack,\" saying that she only used more expensive drugs.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/KLk6mt8FMR0",
-				"caption": "Addiction expert, Dr. Drew, talks about Whitney's death and her struggle with addiction.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "2004"
-			},
-			"text": {
-				"headline": "Rehab",
-				"text": "<p>Houston entered rehab several times beginning in 2004. She declared herself drug free in an interview with Oprah Winfrey in 2009 but returned to rehab in 2011.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2005"
-			},
-			"text": {
-				"headline": "Being Bobby Brown",
-				"text": "<p>Being Bobby Brown was a reality show starring Brown and wife Whitney Houston. Houston refused to sign for a second season. A clip of her telling Brown to \"Kiss my ass,\" became a running gag on The Soup.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2010"
-			},
-			"text": {
-				"headline": "A Rocky Comeback",
-				"text": "<p>Houston's comeback tour is cut short due to a diminished voice damaged by years of smoking. She was reportedly devastated at her inability to perform like her old self.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//twitter.com/Blavity/status/851872780949889024",
-				"caption": "Houston, performing on Good Morning America in 2009.",
-				"credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
-			},
-			"start_date": {
-				"month": "2",
-				"day": "11",
-				"year": "2012"
-			},
-			"text": {
-				"headline": "Whitney Houston<br/> 1963-2012",
-				"text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+				"headline": "References",
+				"text": "<p>Concise Software. (2020, October 6). A brief history of machine learning. Concise Software. https://concisesoftware.com/blog/history-of-machine-learning/ </p> IBM. (n.d.). The games that helped AI evolve. IBM. https://www.ibm.com/history/early-games </p> Norman, J. M. (Ed.). (2025). McCulloch & Pitts publish the first mathematical model of a neural network. History of Information. https://www.historyofinformation.com/detail.php?entryid=782</p>"
 			}
 		}
 	]
