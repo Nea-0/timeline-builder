@@ -1,5 +1,3 @@
 Machine Learning Unfolded: A Timeline of Pioneering Achievements
 
-This project presents a timeline of major achievements in the history of Machine Learning (ML), showcasing the key milestones, innovations, and influential figures that shaped the field from its early foundations to modern breakthroughs.
-
-The timeline features pivotal moments, such as inventing the Perceptron, developing Support Vector Machines, pioneering Deep Learning, and introducing Generative AI models like GANs and Transformers.
+This project presents a timeline of pioneering milestones in Machine Learning. Starting with the basic meaning of machine learning, it explores the earliest mathematical models of neurons and the groundbreaking Turing Test. It highlights Arthur Samuel’s checkers program as one of the first self-learning systems, the invention of the Perceptron, and the development of algorithms like k-Nearest Neighbors (kNN). The rise of Expert Systems in the 1970s–80s and IBM’s Deep Blue defeating Garry Kasparov in 1997 mark key turning points. Finally, the timeline concludes with the modern deep learning era, where neural networks and big data drive today’s AI breakthroughs.
